@@ -7,7 +7,7 @@ setup(
   author = 'JCharante',
   author_email = 'jcharante@gmail.com',
   url = 'https://github.com/AI-Productions/Smelter', # use the URL to the github repo
-  download_url = 'https://github.com/AI-Productions/Smelter/tarball/0.1', # I'll explain this in a second
+  download_url = 'https://github.com/AI-Productions/Smelter/tarball/0.1',
   keywords = ['testing', 'logging', 'example'], # arbitrary keywords
   classifiers = [],
 )
