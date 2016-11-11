@@ -1,5 +1,11 @@
-# smelter
+# Smelter
 A Python 3.5.2 Library to Censor Strings
+
+## Installation
+
+`pip install Smelter`
+
+## Usage
 
 `import Smelter`
 
